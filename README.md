@@ -1,2 +1,2 @@
 # restaurant-site
-my first personal project using bootstrap
+my first personal project by using bootstrap
